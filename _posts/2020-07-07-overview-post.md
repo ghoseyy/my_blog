@@ -11,7 +11,7 @@ Lorem ipsum[^1] dolor sit amet, consectetur adipiscing elit. Pellentesque vel la
 ### Sample heading 3
 #### Sample heading 4
 ##### Sample heading 5
-###### Sample heading 6
+###### Sample heading 7
 
 Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Etiam id nisl ut lorem gravida euismod.
 
