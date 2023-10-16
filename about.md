@@ -3,6 +3,4 @@ layout: post
 title: About
 ---
 
-This is an example page!
-
-Actually, it has the same layout of a post...
+Some AI tools couldn't quite nail my bio, so I decided to take matters into my own blogging hands!...
