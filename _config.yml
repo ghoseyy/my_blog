@@ -1,9 +1,8 @@
-title: Ghoseyy
+title: bimql.69
 author: Bimal chhetry
 url: https://ghoseyy.com/ # root address of the site
 description: > # description of the site (multiple lines allowed)
-   My objective is to provide efficient, professional, friendly service. Understand Clients brief and deliver works on time. I treat my clients with care because I value them immensely.
-
+   69 mistakes, but who cares? I call it a life well-lived.
 permalink: /:slug
 
 favicon: "./logo.png" # relative path to site's favicon
@@ -13,7 +12,7 @@ twitter:
     card: summary_large_image
 
 #theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
-remote_theme: abhinavs/moonwalk
+#remote_theme: abhinavs/moonwalk
 
 theme_config:
   appearance: "dark" # can be "light", "dark" or "auto"
@@ -26,7 +25,7 @@ theme_config:
   show_copyright: true # show copyright notice in footer
   # following keys are using to create home layout
   show_projects: true # show projects as cards, add in _data/home.yml
-  show_blog: true # show blog posts added in _posts
+  #show_blog: true # show blog posts added in _posts
   show_old_projects: true # show old projects as cards, add in _data/home.yml
   show_misc_list: false # show generic vertical list for misc details, add _data/home.yml
   show_reading_time: true # show number of words and reading time in the blog posts
@@ -34,8 +33,8 @@ theme_config:
   # options for "home" page
   home:
     title_projects: Portfolio
-    title_misc_list: Details
-    title_blog: Blog
+    #title_misc_list: Details
+    #title_blog: Blog
     title_old_projects: Old Projects
 
 soopr:
