@@ -51,8 +51,8 @@ old_project_entries:
     desc: A fast and minimalist Jekyll blog theme with clean dark mode
 
 footer_entries:
-  - title: Ghoseyy's homepage
-    url: https://ghoseyy.com/
+  # - title: Ghoseyy's homepage
+  #   url: https://ghoseyy.com/
 
   - title: twitter
     url: https://ghoseyy.com/
