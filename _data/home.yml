@@ -54,14 +54,14 @@ footer_entries:
   # - title: Ghoseyy's homepage
   #   url: https://ghoseyy.com/
 
-  - title: twitter
-    url: https://ghoseyy.com/
+  - title: linkedin
+    url: https://www.linkedin.com/in/bimal-chhetri-1604111bb/
+
+  - title: behance
+    url: https://www.behance.net/bimalchhetry
 
   - title: github
-    url: https://ghoseyy.com/
-
-  - title: feed
-    url: feed.xml
+    url: https://github.com/ghoseyy
 
 misc_entries:
   - title: this is an example vertical list
@@ -76,23 +76,4 @@ misc_entries:
   - title: Blog posts
     post_list: true
     url: false
-
-  - title: moonwalk on the Internet
-    url: false
-    entries:
-      - title: on Github
-        url: https://github.com/abhinavs/moonwalk
-
-      - title: originally built for abhinav's homepage
-        url: https://www.abhinav.co
-
-      - title: this list is scalable and can be nested
-        url: false
-        entries:
-          - title: this is nested inside a nested list
-            url: false
-
-          - title: it is easy to use, see _data/home.yml to see how to configure it.
-            url: false
-
 
