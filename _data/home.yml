@@ -63,7 +63,7 @@ footer_entries:
   - title: github
     url: https://github.com/ghoseyy
 
-misc_entries:c
+misc_entries:
   - title: this is an example vertical list
     url: false
 
