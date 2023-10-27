@@ -39,16 +39,16 @@ old_project_entries:
 #misc_entries:
   - title: Ghoseyy
     url: https://ghoseyy.com/
-    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
+    desc: A monochromatic soul living a colorful life, where I speak less and design my own things, is what makes me an introvert.
     highlight: NEW
 
   - title: Blogs
     url: https://bimalchhetry.blogspot.com/
-    desc: An open source landing website with supporting pages and integrated blog
+    desc: Where I began my blogging career.
 
-  - title: Moonwalk
-    url: https://github.com/abhinavs/moonwalk
-    desc: A fast and minimalist Jekyll blog theme with clean dark mode
+  - title: Click
+    url: https://www.pexels.com/@bimal-chhetry-162267621/
+    desc: A random photographer who loves a shutter more than his life.
 
 footer_entries:
   # - title: Ghoseyy's homepage
