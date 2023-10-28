@@ -22,6 +22,11 @@ To start the Jekyll development server, run this command:
 ```bash
 jekyll serve
 ```
+After running this command, you can open a web browser and navigate to http://localhost:4000 (or the custom URL if you've configured it differently) to see your site as it will appear when deployed.
+
+Once you are satisfied with the local version, you can use jekyll build to generate the final version of your site, which can be deployed to a web server or hosting platform.
+
+
 ## Stage your changes
 
 Stage your changes: Before you commit, you need to stage the changes you want to include in the commit. You can do this using the git add command. For example:
