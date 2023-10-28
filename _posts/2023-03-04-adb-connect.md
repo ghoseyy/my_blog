@@ -6,7 +6,7 @@ tags: [site, tutorial, guide , blog]
 
 # Documentation for Creating New Sites on Jekyll
 
-When creating a new Jekyll site, remember not to set the date beyond the current date. To create a new post, follow this format: `YYYY-MM-DD-TITLE-OF-YOUR-PROJECT.md`.
+When creating a new post, remember not to set the date beyond the current date. To create a new post, follow this format: `YYYY-MM-DD-TITLE-OF-YOUR-PROJECT.md`.
 
 ## Using the Command Line
 
