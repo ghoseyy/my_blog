@@ -1,9 +1,9 @@
 navbar_entries:
-  - title: about
-    url: about
-
   - title: blog
     url: blog
+
+  - title: about
+    url: about
 
   - title: website
     url: https://ghoseyy.com/
@@ -40,7 +40,7 @@ old_project_entries:
   - title: Ghoseyy
     url: https://ghoseyy.com/
     desc: A monochromatic soul living a colorful life.
-    highlight: NEW
+    # highlight: portfolio
 
   - title: Blogs
     url: https://bimalchhetry.blogspot.com/

@@ -1,0 +1,45 @@
+---
+layout: post
+title: Creating New site in Jekyll
+tags: [site, tutorial, guide , blog]
+---
+
+# Documentation for Creating New Sites on Jekyll
+
+When creating a new Jekyll site, remember not to set the date beyond the current date. To create a new post, follow this format: `YYYY-MM-DD-TITLE-OF-YOUR-PROJECT.md`.
+
+## Using the Command Line
+
+To create a new post, use the following command:
+
+```bash
+touch _posts/2023-11-01-my-new-post.md
+```
+## Running the Jekyll Server
+
+To start the Jekyll development server, run this command:
+
+```bash
+jekyll serve
+```
+## Committing Changes to Git
+
+After making changes, commit them to your Git repository with a meaningful message:
+
+```bash
+git commit -m "Add a descriptive message here"
+```
+## Pull the git 
+```python
+git pull origin master 
+```
+## Pulling Changes from Git
+
+To retrieve updates from the remote Git repository, use this command:
+
+```bash
+git push origin master 
+```
+Now you're all set to review your new blog sites.
+
+This revised version maintains a cohesive flow while providing instructions for creating Jekyll sites, creating posts, and managing Git repositories.
