@@ -26,7 +26,6 @@ After running this command, you can open a web browser and navigate to http://lo
 
 Once you are satisfied with the local version, you can use jekyll build to generate the final version of your site, which can be deployed to a web server or hosting platform.
 
-
 ## Stage your changes
 
 Stage your changes: Before you commit, you need to stage the changes you want to include in the commit. You can do this using the git add command. For example:
