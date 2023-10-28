@@ -41,7 +41,7 @@ git commit -m "Add a descriptive message here"
 ```python
 git pull origin master 
 ```
-## Pulling Changes from Git
+## Pushing Changes from Git
 
 To retrieve updates from the remote Git repository, use this command:
 
