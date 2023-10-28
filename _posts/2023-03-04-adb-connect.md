@@ -22,6 +22,14 @@ To start the Jekyll development server, run this command:
 ```bash
 jekyll serve
 ```
+## Stage your changes
+
+Stage your changes: Before you commit, you need to stage the changes you want to include in the commit. You can do this using the git add command. For example:
+
+```bash
+git add .
+```
+
 ## Committing Changes to Git
 
 After making changes, commit them to your Git repository with a meaningful message:
