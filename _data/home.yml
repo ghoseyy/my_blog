@@ -14,9 +14,9 @@ project_entries:
     desc: Documentation for Creating New Sites on Jekyll
 
 
-  - title: Project 2
-    url: overview-post
-    desc: Projects are shown in card layout
+  - title: Google dork cheatsheet
+    url: Google-dork-cheatsheet
+    desc: Advanced search operators to find information that is not readily accessible through normal web searches.
 
   - title: Project 3
     url: overview-post
