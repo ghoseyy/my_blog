@@ -14,9 +14,9 @@ project_entries:
     desc: Documentation for Creating New Sites on Jekyll
 
 
-  - title: Google dork cheatsheet
+  - title: Google dork
     url: Google-dork-cheatsheet
-    desc: Advanced search operators to find information that is not readily accessible through normal web searches.
+    desc: Advanced search operators for accessing hidden web information.
 
   - title: Project 3
     url: overview-post
