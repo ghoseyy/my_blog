@@ -14,13 +14,13 @@ project_entries:
     desc: Documentation for Creating New Sites on Jekyll
 
 
-  - title: Google dork
+  - title: Google dork 
     url: Google-dork-cheatsheet
     desc: Advanced search operators for accessing hidden web information.
 
-  - title: Project 3
-    url: overview-post
-    desc: You can control visibility from _config.yml file
+  - title: Using adb tool for MAC
+    url: Developer-options-benefits-on-android
+    desc: Some of the benefits and features of developer options on Android.
 
   - title: Project 4
     url: overview-post
