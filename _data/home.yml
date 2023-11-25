@@ -27,10 +27,10 @@ project_entries:
     desc: Add a Secondary Gmail Account to Your Primary Gmail Account.
     highlight: IMP
 
-  - title: Project 5
-    url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
-    highlight: WIP
+  - title: Contribute to OpenSource
+    url: How-to-Contribute-to-Open-Source
+    desc: Open source contributes to skill growth, community, and potential earnings.
+    highlight: 
 
   - title: Project 6
     url: overview-post
