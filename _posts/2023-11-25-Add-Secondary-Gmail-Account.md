@@ -1,28 +1,24 @@
 ---
 layout: post
-title: Guide on Adding a Secondary Gmail Account 
+title: Add Secondary Gmail Account
 tags: [google, tutorial, search , technique]
 ---
-# A Step-by-Step Guide on Adding a Secondary Gmail Account (YourGmail+Additional@gmail.com)
-
 Managing multiple Gmail accounts can be a challenge, but Google has made it easier for users to handle this by allowing the addition of secondary email addresses. In this guide, we'll walk you through the simple steps to add a secondary Gmail account, using the format "YourGmail+Additional@gmail.com." This feature is not only convenient but also helps streamline your email management process.
-
-## Step 1: Log in to Your Primary Gmail Account:
+### Step 1: Log in to Your Primary Gmail Account
 Open your web browser and navigate to Gmail.
 Log in using your primary Gmail account credentials.
 
-## Step 2: Access Gmail Settings:
+### Step 2: Access Gmail Settings:
 Click on the gear icon located in the upper right corner of the Gmail interface.
 Select "See all settings" from the dropdown menu.
 
-## Step 3: Navigate to the "Accounts and Import" Tab:
+### Step 3: Navigate to the "Accounts and Import" Tab:
 In the settings menu, click on the "Accounts and Import" tab.
 
-## Step 4: Add Another Email Address:
+### Step 4: Add Another Email Address:
 Under the "Send mail as" section, locate and click on "Add another email address."
 
 ## Step 5: Enter the Email Address:
-
 In the popup window, enter the email address you wish to add, for example,
 ```bash 
 "YourEmail+Additional@gmail.com." 
