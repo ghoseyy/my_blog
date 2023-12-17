@@ -1,5 +1,6 @@
 ---
 layout: post
+published: false
 categories: [Jekyll, Markdown]
 tags: [soopr, config]
 description: "A detailed guide on creating meta tags for Jekyll Markdown posts."
