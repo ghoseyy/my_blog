@@ -4,6 +4,7 @@ title: Android debugging tool
 tags: [google, tutorial, search , technique]
 thumbnail: /assets/images/favicon.adbthumb.jpeg
 ---
+
 # Using ADB Tool for Wireless File Sharing on Mac with Android
 
 Wireless file sharing between your Mac and Android device using ADB (Android Debug Bridge) can greatly enhance your workflow. Follow these steps to seamlessly connect and transfer files:
