@@ -9,32 +9,32 @@ navbar_entries:
     url: https://ghoseyy.com/
 
 project_entries:
-  - title: New post on site
-    url: new-post-on-site
-    desc: Documentation for Creating New Sites on Jekyll
+  - title: Using adb tool for MAC
+    url: Developer-options-benefits-on-android
+    desc: Some of the benefits and features of developer options on Android.
 
+  - title: One to many mail
+    url: Add-Secondary-Gmail-Account
+    desc: Add a Secondary Gmail Account to Your Primary Gmail Account.
+    highlight: IMP
 
   - title: Google dork 
     url: Google-dork-cheatsheet
     desc: Advanced search operators for accessing hidden web information.
 
-  - title: Using adb tool for MAC
-    url: Developer-options-benefits-on-android
-    desc: Some of the benefits and features of developer options on Android.
+  - title: Crafting Minimal Logo
+    url: crafting-minimal-logo
+    desc: Designing and ideation of impactful logo with minimalist essence.
+    highlight: 
 
-  - title: One mail Multiple Extension
-    url: Add-Secondary-Gmail-Account
-    desc: Add a Secondary Gmail Account to Your Primary Gmail Account.
-    highlight: IMP
+  - title: New post on site
+    url: new-post-on-site
+    desc: Documentation for Creating New Sites on Jekyll, easy setup
 
-  - title: Contribute to OpenSource
+  - title: contribution
     url: How-to-Contribute-to-Open-Source
     desc: Open source contributes to skill growth, community, and potential earnings.
     highlight: 
-
-  - title: Project 6
-    url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
 
 old_project_entries:
 #misc_entries:
