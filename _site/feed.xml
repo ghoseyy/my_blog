@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-03-21T21:07:57+05:45</updated><id>http://localhost:4000/feed.xml</id><title type="html">bimql.69</title><subtitle>69 mistakes, but who cares? I call it a life well-lived.
+</subtitle><author><name>Bimal chhetry</name></author><entry><title type="html">Crafting a Minimal and Meaningful Logo</title><link href="http://localhost:4000/crafting-minimal-logo" rel="alternate" type="text/html" title="Crafting a Minimal and Meaningful Logo" /><published>2024-03-16T00:00:00+05:45</published><updated>2024-03-16T00:00:00+05:45</updated><id>http://localhost:4000/crafting-minimal-logo</id><content type="html" xml:base="http://localhost:4000/crafting-minimal-logo">&lt;p&gt;&lt;img src=&quot;/assets/images/logo_journey.jpg&quot; alt=&quot;Journey Logo&quot; /&gt;&lt;/p&gt;</content><author><name>Bimal chhetry</name></author><category term="google" /><category term="logo" /><category term="search" /><category term="minimal" /><summary type="html"></summary></entry><entry><title type="html">Add Secondary Gmail Account</title><link href="http://localhost:4000/add-secondary-gmail-account" rel="alternate" type="text/html" title="Add Secondary Gmail Account" /><published>2023-11-25T00:00:00+05:45</published><updated>2023-11-25T00:00:00+05:45</updated><id>http://localhost:4000/Add-Secondary-Gmail-Account</id><content type="html" xml:base="http://localhost:4000/add-secondary-gmail-account">&lt;p&gt;Managing multiple Gmail accounts can be a challenge, but Google has made it easier for users to handle this by allowing the addition of secondary email addresses. In this guide, we’ll walk you through the simple steps to add a secondary Gmail account, using the format “YourGmail+Additional@gmail.com.” This feature is not only convenient but also helps streamline your email management process.&lt;/p&gt;
+&lt;h3 id=&quot;step-1-log-in-to-your-primary-gmail-account&quot;&gt;Step 1: Log in to Your Primary Gmail Account&lt;/h3&gt;
+&lt;p&gt;Open your web browser and navigate to Gmail.
+Log in using your primary Gmail account credentials.&lt;/p&gt;
+
+&lt;h3 id=&quot;step-2-access-gmail-settings&quot;&gt;Step 2: Access Gmail Settings:&lt;/h3&gt;
+&lt;p&gt;Click on the gear icon located in the upper right corner of the Gmail interface.
+Select “See all settings” from the dropdown menu.&lt;/p&gt;
+
+&lt;h3 id=&quot;step-3-navigate-to-the-accounts-and-import-tab&quot;&gt;Step 3: Navigate to the “Accounts and Import” Tab:&lt;/h3&gt;
+&lt;p&gt;In the settings menu, click on the “Accounts and Import” tab.&lt;/p&gt;
+
+&lt;h3 id=&quot;step-4-add-another-email-address&quot;&gt;Step 4: Add Another Email Address:&lt;/h3&gt;
+&lt;p&gt;Under the “Send mail as” section, locate and click on “Add another email address.”&lt;/p&gt;
+
+&lt;h2 id=&quot;step-5-enter-the-email-address&quot;&gt;Step 5: Enter the Email Address:&lt;/h2&gt;
+&lt;p&gt;In the popup window, enter the email address you wish to add, for example,&lt;/p&gt;
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;s2&quot;&gt;&quot;YourEmail+Additional@gmail.com.&quot;&lt;/span&gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Optionally, you can also modify the name associated with the email address if needed.&lt;/p&gt;
+
+&lt;p&gt;Adding a secondary Gmail account, such as “YourGmail+Additional@gmail.com,” is a straightforward process that enhances your email management capabilities. With this feature, you can keep your various email addresses organized and easily switch between them, streamlining your communication and productivity. Try it out today to experience the convenience of managing multiple Gmail accounts seamlessly.&lt;/p&gt;</content><author><name>Bimal chhetry</name></author><category term="google" /><category term="tutorial" /><category term="search" /><category term="technique" /><summary type="html">Managing multiple Gmail accounts can be a challenge, but Google has made it easier for users to handle this by allowing the addition of secondary email addresses. In this guide, we’ll walk you through the simple steps to add a secondary Gmail account, using the format “YourGmail+Additional@gmail.com.” This feature is not only convenient but also helps streamline your email management process. Step 1: Log in to Your Primary Gmail Account Open your web browser and navigate to Gmail. Log in using your primary Gmail account credentials.</summary></entry><entry><title type="html">How to Contribute to OpenSource</title><link href="http://localhost:4000/how-to-contribute-to-open-source" rel="alternate" type="text/html" title="How to Contribute to OpenSource" /><published>2023-11-15T00:00:00+05:45</published><updated>2023-11-15T00:00:00+05:45</updated><id>http://localhost:4000/How-to-Contribute-to-Open-Source</id><content type="html" xml:base="http://localhost:4000/how-to-contribute-to-open-source">&lt;h1 id=&quot;how-to-contribute-to-open-source&quot;&gt;How to Contribute to Open Source&lt;/h1&gt;
+&lt;p&gt;Want to contribute to open source? A guide to making open source contributions, for first-timers and for veterans.&lt;/p&gt;
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;https://opensource.guide/how-to-contribute/#why-contribute-to-open-source
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>Bimal chhetry</name></author><category term="google" /><category term="tutorial" /><category term="search" /><category term="technique" /><summary type="html">How to Contribute to Open Source Want to contribute to open source? A guide to making open source contributions, for first-timers and for veterans. https://opensource.guide/how-to-contribute/#why-contribute-to-open-source</summary></entry><entry><title type="html">Android debugging tool</title><link href="http://localhost:4000/developer-options-benefits-on-android" rel="alternate" type="text/html" title="Android debugging tool" /><published>2023-11-05T00:00:00+05:45</published><updated>2023-11-05T00:00:00+05:45</updated><id>http://localhost:4000/Developer-options-benefits-on-android</id><content type="html" xml:base="http://localhost:4000/developer-options-benefits-on-android">&lt;h1 id=&quot;using-adb-tool-for-wireless-file-sharing-on-mac-with-android&quot;&gt;Using ADB Tool for Wireless File Sharing on Mac with Android&lt;/h1&gt;
+
+&lt;p&gt;Wireless file sharing between your Mac and Android device using ADB (Android Debug Bridge) can greatly enhance your workflow. Follow these steps to seamlessly connect and transfer files:&lt;/p&gt;
+
+&lt;h2 id=&quot;initial-requirements&quot;&gt;Initial Requirements&lt;/h2&gt;
+
+&lt;p&gt;Ensure your Android device and Mac are connected to the same Wi-Fi network.&lt;/p&gt;
+
+&lt;h2 id=&quot;verify-adb-installation&quot;&gt;Verify ADB Installation&lt;/h2&gt;
+
+&lt;p&gt;Open Terminal on your Mac and confirm ADB is installed:&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;adb version
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;If ADB is not installed, download and install it by following the instructions on the &lt;a href=&quot;https://developer.android.com/tools/releases/platform-tools&quot;&gt;Android Developers website&lt;/a&gt;. Repeat the ADB version check after installation.&lt;/p&gt;
+
+&lt;h2 id=&quot;enable-adb-over-wi-fi&quot;&gt;Enable ADB over Wi-Fi&lt;/h2&gt;
+
+&lt;p&gt;Connect your Android device to your Mac via USB and execute the following command in Terminal:&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;adb devices
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;If no device is attached, enable Developer Options on your device. Navigate to Settings &amp;gt; Developer Options &amp;gt; Turn on Developer Options &amp;gt; Enable USB Debugging.&lt;/p&gt;
+
+&lt;h2 id=&quot;wireless-connection-setup&quot;&gt;Wireless Connection Setup&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Connect your device and Mac using a USB cable.&lt;/li&gt;
+  &lt;li&gt;Enable Developer Options: Settings &amp;gt; Developer Options &amp;gt; Turn on Developer Options &amp;gt; Enable USB Debugging.&lt;/li&gt;
+  &lt;li&gt;For wireless debugging: Settings &amp;gt; Developer Options &amp;gt; Turn on Developer Options &amp;gt; Wireless Debugging &amp;gt; Turn on.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;adb devices&lt;/code&gt; in Terminal to ensure successful USB connection.&lt;/p&gt;
+
+&lt;h2 id=&quot;wireless-adb-connection&quot;&gt;Wireless ADB Connection&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Check the IP address and port in Developer Options on your device (e.g., 192.168.9.657:36875).&lt;/li&gt;
+  &lt;li&gt;In Terminal, execute:&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;adb tcpip 5555
+adb connect &amp;lt;your_ip_address&amp;gt;:5555
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Replace &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;your_ip_address&amp;gt;&lt;/code&gt; with the provided IP address. Once connected, you can disconnect the USB cable.&lt;/p&gt;
+
+&lt;h2 id=&quot;file-sharing-commands&quot;&gt;File Sharing Commands&lt;/h2&gt;
+
+&lt;h3 id=&quot;pushing-a-file-from-mac-to-android&quot;&gt;Pushing a File from Mac to Android&lt;/h3&gt;
+
+&lt;p&gt;Suppose you want to push a video named &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;tea.mp4&lt;/code&gt; from your Mac’s Downloads directory to your Android’s Download folder:&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;adb push ~/Downloads/tea.mp4 /sdcard/Download/
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;pulling-a-file-from-android-to-mac&quot;&gt;Pulling a File from Android to Mac&lt;/h3&gt;
+
+&lt;p&gt;To pull the same video from your Android device to your Mac:&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;adb pull /sdcard/Download/tea.mp4 ~/Downloads/
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;These commands allow you to seamlessly share files between your Mac and Android device wirelessly using ADB. This secure, reliable, and efficient method eliminates the need for third-party tools. Stay tuned for more ADB tips and tricks in upcoming articles!&lt;/p&gt;</content><author><name>Bimal chhetry</name></author><category term="google" /><category term="tutorial" /><category term="search" /><category term="technique" /><summary type="html">Using ADB Tool for Wireless File Sharing on Mac with Android</summary></entry><entry><title type="html">Google dork cheatsheet</title><link href="http://localhost:4000/google-dork-cheatsheet" rel="alternate" type="text/html" title="Google dork cheatsheet" /><published>2023-11-04T00:00:00+05:45</published><updated>2023-11-04T00:00:00+05:45</updated><id>http://localhost:4000/Google-dork-cheatsheet</id><content type="html" xml:base="http://localhost:4000/google-dork-cheatsheet">&lt;h1 id=&quot;google-dork-cheat-sheet&quot;&gt;Google Dork Cheat Sheet&lt;/h1&gt;
+&lt;p&gt;A “Google dork” is a search string used to find specific information on the internet using Google’s search engine. It involves using advanced search operators to refine results and can be used for various purposes, including security testing. However, it’s important to use these techniques responsibly and legally.&lt;/p&gt;
+
+&lt;h3 id=&quot;search-filters&quot;&gt;Search Filters&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Filter&lt;/th&gt;
+      &lt;th&gt;Description&lt;/th&gt;
+      &lt;th&gt;Example&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;allintext&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;Searches for occurrences of all the keywords given.&lt;/td&gt;
+      &lt;td&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;allintext:&quot;keyword&quot;&lt;/code&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;intext&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;Searches for the occurrences of keywords all at once or one at a time.&lt;/td&gt;
+      &lt;td&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;intext:&quot;keyword&quot;&lt;/code&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;inurl&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;Searches for a URL matching one of the keywords.&lt;/td&gt;
+      &lt;td&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;inurl:&quot;keyword&quot;&lt;/code&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;allinurl&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;Searches for a URL matching all the keywords in the query.&lt;/td&gt;
+      &lt;td&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;allinurl:&quot;keyword&quot;&lt;/code&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;intitle&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;Searches for occurrences of keywords in title all or one.&lt;/td&gt;
+      &lt;td&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;intitle:&quot;keyword&quot;&lt;/code&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;allintitle&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;Searches for occurrences of keywords all at a time.&lt;/td&gt;
+      &lt;td&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;allintitle:&quot;keyword&quot;&lt;/code&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;site&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;Specifically searches that particular site and lists all the results for that site.&lt;/td&gt;
+      &lt;td&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;site:&quot;www.google.com&quot;&lt;/code&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;filetype&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;Searches for a particular filetype mentioned in the query.&lt;/td&gt;
+      &lt;td&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;filetype:&quot;pdf&quot;&lt;/code&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;link&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;Searches for external links to pages.&lt;/td&gt;
+      &lt;td&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;link:&quot;keyword&quot;&lt;/code&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;numrange&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;Used to locate specific numbers in your searches.&lt;/td&gt;
+      &lt;td&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;numrange:321-325&lt;/code&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;before/after&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;Used to search within a particular date range.&lt;/td&gt;
+      &lt;td&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;filetype:pdf &amp;amp; (before:2000-01-01 after:2001-01-01)&lt;/code&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;allinanchor&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;Shows sites which have the key terms in links pointing to them, in order of the most links.&lt;/td&gt;
+      &lt;td&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;allinanchor:rat&lt;/code&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;allinpostauthor&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;Exclusive to blog search, this one picks out blog posts that are written by specific individuals.&lt;/td&gt;
+      &lt;td&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;allinpostauthor:&quot;keyword&quot;&lt;/code&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;related&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;List web pages that are “similar” to a specified web page.&lt;/td&gt;
+      &lt;td&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;related:www.google.com&lt;/code&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;cache&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;Shows the version of the web page that Google has in its cache.&lt;/td&gt;
+      &lt;td&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;cache:www.google.com&lt;/code&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;examples&quot;&gt;Examples&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;intext:&quot;index of /&quot;&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Nina Simone intitle:&quot;index.of&quot; &quot;parent directory&quot; &quot;size&quot; &quot;last modified&quot; &quot;description&quot; I Put A Spell On You (mp4|mp3|avi|flac|aac|ape|ogg) -inurl:(jsp|php|html|aspx|htm|cf|shtml|lyrics-realm|mp3-collection) -site:.info&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Bill Gates intitle:&quot;index.of&quot; &quot;parent directory&quot; &quot;size&quot; &quot;last modified&quot; &quot;description&quot; Microsoft (pdf|txt|epub|doc|docx) -inurl:(jsp|php|html|aspx|htm|cf|shtml|ebooks|ebook) -site:.info&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;parent directory DVDRip -xxx -html -htm -php -shtml -opendivx -md5 -md5sums&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;filetype:config inurl:web.config inurl:ftp&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&quot;Windows XP Professional&quot; 94FBR&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;ext:(doc | pdf | xls | txt | ps | rtf | odt | sxw | psw | ppt | pps | xml) (intext:confidential salary | intext:&quot;budget approved&quot;) inurl:confidential&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;operators&quot;&gt;Operators&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Search Term&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;This operator searches for the exact phrase within speech marks only.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;OR&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;This operator searches for a given search term OR an equivalent term.
+        &lt;ul&gt;
+          &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;site:facebook.com | site:twitter.com&lt;/code&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;AND&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;This operator combines search terms.
+        &lt;ul&gt;
+          &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;site:facebook.com &amp;amp; site:twitter.com&lt;/code&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Operators Combination&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Combining operators for more refined searches.
+        &lt;ul&gt;
+          &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;(site:facebook.com | site:twitter.com) &amp;amp; intext:&quot;login&quot;&lt;/code&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;include-and-exclude-results&quot;&gt;Include and Exclude Results&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Include Results&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Orders results by the number of occurrences of the keyword.
+        &lt;ul&gt;
+          &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;-site:facebook.com +site:facebook.*&lt;/code&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Exclude Results&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Excludes specific sites from the results.
+        &lt;ul&gt;
+          &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;site:facebook.* -site:facebook.com&lt;/code&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;synonyms&quot;&gt;Synonyms&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Adding a tilde (~) to a search word tells Google to bring back synonyms for the term.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;~set&lt;/code&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;glob-pattern-&quot;&gt;Glob Pattern (*)&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Putting an asterisk in a search tells Google ‘I don’t know what goes here’.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;site:*.com&lt;/code&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Bimal chhetry</name></author><category term="google" /><category term="tutorial" /><category term="search" /><category term="technique" /><summary type="html">Google Dork Cheat Sheet A “Google dork” is a search string used to find specific information on the internet using Google’s search engine. It involves using advanced search operators to refine results and can be used for various purposes, including security testing. However, it’s important to use these techniques responsibly and legally.</summary></entry><entry><title type="html">Creating New site in Jekyll</title><link href="http://localhost:4000/new-post-on-site" rel="alternate" type="text/html" title="Creating New site in Jekyll" /><published>2023-03-04T00:00:00+05:45</published><updated>2023-03-04T00:00:00+05:45</updated><id>http://localhost:4000/new-post-on-site</id><content type="html" xml:base="http://localhost:4000/new-post-on-site">&lt;h1 id=&quot;documentation-for-creating-new-sites-on-jekyll&quot;&gt;Documentation for Creating New Sites on Jekyll&lt;/h1&gt;
+
+&lt;p&gt;When creating a new post, remember not to set the date beyond the current date. To create a new post, follow this format: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YYYY-MM-DD-TITLE-OF-YOUR-PROJECT.md&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;using-the-command-line&quot;&gt;Using the Command Line&lt;/h2&gt;
+
+&lt;p&gt;To create a new post, use the following command:&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nb&quot;&gt;touch &lt;/span&gt;_posts/2023-11-01-my-new-post.md
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;running-the-jekyll-server&quot;&gt;Running the Jekyll Server&lt;/h2&gt;
+
+&lt;p&gt;To start the Jekyll development server, run this command:&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;jekyll serve
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;After running this command, you can open a web browser and navigate to http://localhost:4000 (or the custom URL if you’ve configured it differently) to see your site as it will appear when deployed.&lt;/p&gt;
+
+&lt;p&gt;Once you are satisfied with the local version, you can use jekyll build to generate the final version of your site, which can be deployed to a web server or hosting platform.&lt;/p&gt;
+
+&lt;h2 id=&quot;stage-your-changes&quot;&gt;Stage your changes&lt;/h2&gt;
+
+&lt;p&gt;Stage your changes: Before you commit, you need to stage the changes you want to include in the commit. You can do this using the git add command. For example:&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git add &lt;span class=&quot;nb&quot;&gt;.&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;committing-changes-to-git&quot;&gt;Committing Changes to Git&lt;/h2&gt;
+
+&lt;p&gt;After making changes, commit them to your Git repository with a meaningful message:&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git commit &lt;span class=&quot;nt&quot;&gt;-m&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Add a descriptive message here&quot;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;pull-the-git&quot;&gt;Pull the git&lt;/h2&gt;
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;git&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;pull&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;origin&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;master&lt;/span&gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;pushing-changes-from-git&quot;&gt;Pushing Changes from Git&lt;/h2&gt;
+
+&lt;p&gt;To retrieve updates from the remote Git repository, use this command:&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git push origin master 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Now you’re all set to review your new blog sites.&lt;/p&gt;
+
+&lt;p&gt;This revised version maintains a cohesive flow while providing instructions for creating Jekyll sites, creating posts, and managing Git repositories.&lt;/p&gt;</content><author><name>Bimal chhetry</name></author><category term="site" /><category term="tutorial" /><category term="guide" /><category term="blog" /><summary type="html">Documentation for Creating New Sites on Jekyll</summary></entry></feed>
