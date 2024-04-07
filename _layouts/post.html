@@ -12,19 +12,4 @@ layout: default
     <img src="{{ page.thumbnail | relative_url }}" alt="Thumbnail">
 {% endif %}
 
-<!-- Open Graph metadata -->
-<meta property="og:title" content="{{ page.title }}">
-<meta property="og:description" content="{{ page.description }}">
-{% if page.thumbnail %}
-    <meta property="og:image" content="{{ page.thumbnail | absolute_url }}">
-{% endif %}
-<meta property="og:type" content="article">
-<meta property="og:url" content="{{ site.url }}{{ page.url }}">
-
-<!-- Twitter Cards metadata -->
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="{{ page.title }}">
-<meta name="twitter:description" content="{{ page.description }}">
-{% if page.thumbnail %}
-    <meta name="twitter:image" content="{{ page.thumbnail | absolute_url }}">
-{% endif %}
+{{ content }}
