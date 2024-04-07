@@ -1,9 +1,12 @@
 ---
 layout: post
 title: "If You Think Social Media Kills Your Time, Look at This."
-tags: [content, blog, tech , informative]
+tags: [content, blog, tech, informative]
+thumbnail: /assets/images/favicon/adbthumb.jpeg
+image: /assets/images/favicon/adbthumb.jpeg
 date: 2024-04-06
 ---
+
 
 Hello again, it's me, bimql.pdf. You may know me as the person who created this website to post technical content. Now, it seems like AI might replace me with higher-quality content. Regardless, I will continue to write my genuine content.
 
