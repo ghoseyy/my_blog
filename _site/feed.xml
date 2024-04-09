@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-04-09T20:15:49+05:45</updated><id>http://localhost:4000/feed.xml</id><title type="html">bimql.69</title><subtitle>69 mistakes, but who cares? I call it a life well-lived.
-</subtitle><author><name>Bimal chhetry</name></author><entry><title type="html">Started with a new static site ?</title><link href="http://localhost:4000/started-with-a-new-static-site" rel="alternate" type="text/html" title="Started with a new static site ?" /><published>2024-04-09T00:00:00+05:45</published><updated>2024-04-09T00:00:00+05:45</updated><id>http://localhost:4000/Started-with-a-new-static-site-</id><content type="html" xml:base="http://localhost:4000/started-with-a-new-static-site">&lt;p&gt;Hello again. I was wasting my time scrolling through Instagram memes and laughing at someone’s story. Meanwhile, I felt like I was being dumb or free enough to scroll and kill my valuable time. After thinking for 5 minutes, I came up with a conclusion, “Let’s scroll one more time,” and the rest is 56 minutes I killed. After this, I decided to write another blog about how to register your free .com.np domain and host using GitHub and Netlify.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-04-09T20:52:51+05:45</updated><id>http://localhost:4000/feed.xml</id><title type="html">bimql.69</title><subtitle>69 mistakes, but who cares? I call it a life well-lived.
+</subtitle><author><name>Bimal chhetry</name></author><entry><title type="html">Started with a new static site ?</title><link href="http://localhost:4000/started-with-a-new-static-site" rel="alternate" type="text/html" title="Started with a new static site ?" /><published>2024-04-09T00:00:00+05:45</published><updated>2024-04-09T00:00:00+05:45</updated><id>http://localhost:4000/Started-with-a-new-static-site-</id><content type="html" xml:base="http://localhost:4000/started-with-a-new-static-site">&lt;p&gt;Hello again. I was wasting my time scrolling through Instagram memes and laughing at someone’s story. Meanwhile, I felt like I was being dumb or free enough to scroll and kill my valuable time. After thinking for 5 minutes, I came up with a conclusion, “Let’s scroll one more time,” and the rest is 56 minutes I killed. After this, I decided to write another blog about how to register your free .com.np domain and host using &lt;a href=&quot;http://github.com&quot;&gt;GitHub&lt;/a&gt; and &lt;a href=&quot;http://netlify.com&quot;&gt;Netlify&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Firstly, let’s go to &lt;a href=&quot;http://register.com.np/&quot;&gt;register.com.np&lt;/a&gt; and create your user login. At least if you’re a tech guy, you can do this. Do it!&lt;/p&gt;
 
@@ -18,20 +18,19 @@
   &lt;li&gt;Additional Documents (these will be optional)&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://i.postimg.cc/L5Jbh5YQ/domain-registar.jpg&quot; alt=&quot;Documents requirements&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.postimg.cc/jSh0pWzy/letters.jpg&quot; alt=&quot;Documents requirements&quot; /&gt;
 &lt;small&gt;&lt;em&gt;Documents requirements&lt;/em&gt;&lt;/small&gt;&lt;/p&gt;
 
 &lt;p&gt;Save the documents, upload, and continue. Save and repeat two or three times as per the documents needed and click next. This will send the application to the registrar’s office, which will take 1-2 days to approve your domain. If not approved, you may have a lack of documents, so recheck and resubmit until you get your domain. Keep following up with them, my boy!&lt;/p&gt;
 
-&lt;p&gt;So, after a few days, the domain will be accepted and you will receive a notification either by email or in the portal of &lt;a href=&quot;http://register.com.np/&quot;&gt;register.com.np&lt;/a&gt;. After this, you can see it on your profile under Dashboard &amp;gt; Active Domains.&lt;/p&gt;
+&lt;p&gt;So, after a few days, the domain will be accepted and you will receive a notification either by email or in the portal of &lt;a href=&quot;http://register.com.np/&quot;&gt;register.com.np&lt;/a&gt;. After this, you can see it on your profile under Dashboard &amp;gt; &lt;a href=&quot;https://register.com.np/userdomain&quot;&gt;Active Domains&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://i.postimg.cc/d1LbZ4g9/dashboard.jpg&quot; alt=&quot;dashboard.jpg&quot; /&gt;
-&lt;small&gt;&lt;em&gt;dashboard&lt;/em&gt;&lt;/small&gt;&lt;/p&gt;
+&lt;small&gt;&lt;em&gt;Look at your dhinchakpooja.com.np shining&lt;/em&gt;&lt;/small&gt;&lt;/p&gt;
 
 &lt;p&gt;After this, you have your free .com.np domain name. So, let’s move further.&lt;/p&gt;
 
 &lt;h1 id=&quot;hosting&quot;&gt;Hosting&lt;/h1&gt;
-
 &lt;p&gt;Let’s talk about hosting: Hosting refers to the practice of storing, serving, and maintaining files or data for a website or an application on a server that is connected to the internet. When you create a website or develop an application, you need a place to store all the files, including HTML, CSS, JavaScript, images, videos, databases, etc. This is where hosting comes into play.&lt;/p&gt;
 
 &lt;p&gt;Here, we discuss a few free hosting sites, but we will focus on Netlify later, which is the best among these and which I have already tried for a few years.&lt;/p&gt;
@@ -39,7 +38,7 @@
 &lt;ol&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.netlify.com/&quot;&gt;Netlify&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.infinityfree.net/&quot;&gt;Infinityfree&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.notion.so/If-you-think-social-media-kills-your-time-look-at-this-5192a5539128460dab57247c0c3bbb1c?pvs=21&quot;&gt;Shortcoder&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;&quot;&gt;Shortcoder&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://vercel.com/&quot;&gt;Vercel&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
@@ -51,8 +50,10 @@
 
 &lt;p&gt;Click here for &lt;a href=&quot;https://github.com/signup&quot;&gt;Github signup&lt;/a&gt; and follow these steps to create your account!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://i.postimg.cc/W4fKV0tq/github-setup.jpg&quot; alt=&quot;Signup [Github](http://github.com)&quot; /&gt;
-&lt;small&gt;&lt;em&gt;&lt;a href=&quot;http://github.com&quot;&gt;Signup Github&lt;/a&gt;&lt;/em&gt;&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.postimg.cc/q79k7RGm/github-setup1.jpg&quot; alt=&quot;Signup [Github](http://github.com)&quot; /&gt;
+&lt;small&gt;&lt;em&gt;Step-1 &lt;a href=&quot;http://github.com&quot;&gt;Signup Github&lt;/a&gt;&lt;/em&gt;&lt;/small&gt;
+&lt;img src=&quot;https://i.postimg.cc/1tGfhwZ0/github-setup2.jpg&quot; alt=&quot;Signup [Github](http://github.com)&quot; /&gt;
+&lt;small&gt;&lt;em&gt;Step-2 &lt;a href=&quot;http://github.com&quot;&gt;Signup Github&lt;/a&gt;&lt;/em&gt;&lt;/small&gt;&lt;/p&gt;
 
 &lt;p&gt;So, finally, you’ve created your GitHub account. Now, let’s move to Netlify.&lt;/p&gt;
 
@@ -68,20 +69,20 @@
   &lt;li&gt;Deploy with GitHub&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://i.postimg.cc/tTKMZy3X/netlify.jpg&quot; alt=&quot;netlify.jpg&quot; /&gt;
-&lt;small&gt;&lt;em&gt;&lt;a href=&quot;http://Netlify.com&quot;&gt;Netlify&lt;/a&gt;&lt;/em&gt;&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.postimg.cc/8c8k55Tp/netlify1.jpg&quot; alt=&quot;netlify.jpg&quot; /&gt;
+&lt;small&gt;&lt;em&gt;&lt;a href=&quot;http://Netlify.com&quot;&gt;steps to deploy on Netlify&lt;/a&gt;&lt;/em&gt;&lt;/small&gt;&lt;/p&gt;
 
 &lt;p&gt;After this, you might see this kind of page. Simply fill up the form and continue with ‘Deploy Site’. Keep in mind to put your actual domain name in the ‘Site Name’ field. This will create a public repository on GitHub with these templates and codes {demo codes}.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://i.postimg.cc/1tjWxSCG/netlify-2.jpg&quot; alt=&quot;netlify 2.jpg&quot; /&gt;
-&lt;small&gt;&lt;em&gt;&lt;a href=&quot;http://Netlify.com&quot;&gt;Netlify&lt;/a&gt;&lt;/em&gt;&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.postimg.cc/76JYw78t/netlify2.jpg&quot; alt=&quot;netlify 2.jpg&quot; /&gt;
+&lt;small&gt;&lt;em&gt;&lt;a href=&quot;http://Netlify.com&quot;&gt;steps to deploy on Netlify&lt;/a&gt;&lt;/em&gt;&lt;/small&gt;&lt;/p&gt;
 
 &lt;p&gt;After clicking “Deploy Site”, please be patient and wait for 1-2 minutes. Not everything is instant, so waiting is necessary!&lt;/p&gt;
 
 &lt;p&gt;Now, your site is finally deployed and running on a Netlify local domain, named something like this (https://main–regal-fox-72dbea.netlify.app/) . All you need to do now is connect your Netlify DNS to your actual domain name server (&lt;a href=&quot;http://dhinchakpooja.com.np/&quot;&gt;dhinchakpooja.com.np&lt;/a&gt;).&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://i.postimg.cc/q7bf79DR/netlify-3.jpg&quot; alt=&quot;netlify 3.jpg&quot; /&gt;
-&lt;small&gt;&lt;em&gt;&lt;a href=&quot;http://Netlify.com&quot;&gt;Netlify&lt;/a&gt;&lt;/em&gt;&lt;/small&gt;&lt;/p&gt;
+&lt;small&gt;&lt;em&gt;Live on Netlify’s own domain&lt;/em&gt;&lt;/small&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;domain-name-connection&quot;&gt;Domain Name Connection&lt;/h1&gt;
 &lt;p&gt;Ok, now your site is live but on a Netlify’s own domain. We have to shift it to our own domain. For that, click on ‘&lt;a href=&quot;https://app.netlify.com/sites/regal-fox-72dbea/domain-management&quot;&gt;Domain Management&lt;/a&gt;’ as shown on the left side of your page, then follow these steps:&lt;/p&gt;
@@ -97,7 +98,7 @@
 &lt;p&gt;On there, let’s click on your primary domain as &lt;strong&gt;&lt;a href=&quot;http://dhinchakpooja.com.np/&quot;&gt;dhinchakpooja.com.np&lt;/a&gt;&lt;/strong&gt;, click in the center of the line where it says Awaiting External DNS, and scroll down to the end where it says &lt;a href=&quot;https://app.netlify.com/sites/regal-fox-72dbea/dns/setup/dhinchakpooja.com.np&quot;&gt;Set up Netlify DNS for dhinchakpooja.com.np&lt;/a&gt;. Click this and follow the steps.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://i.postimg.cc/cC3PX6xg/netlify-4.jpg&quot; alt=&quot;netlify 4.jpg&quot; /&gt;
-&lt;small&gt;&lt;em&gt;&lt;a href=&quot;http://Netlify.com&quot;&gt;Netlify&lt;/a&gt;&lt;/em&gt;&lt;/small&gt;&lt;/p&gt;
+&lt;small&gt;&lt;em&gt;step to setting up DNS&lt;/em&gt;&lt;/small&gt;&lt;/p&gt;
 
 &lt;p&gt;copy this DNS.&lt;/p&gt;
 &lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;dns1.p01.nsone.net
@@ -105,14 +106,14 @@ dns2.p01.nsone.net
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;p&gt;Now, let’s move to the first part where we set the DNS as default on our &lt;a href=&quot;http://register.com.np/&quot;&gt;register.com.np&lt;/a&gt; domain name server, where DNS 1 and DNS 2 are located.&lt;/p&gt;
 
-&lt;p&gt;Locate the domain and click ‘Edit DNS’, then paste the details you copied recently as: dns1.p01.nsone.net&lt;/p&gt;
-
-&lt;p&gt;dns2.p01.nsone.net&lt;/p&gt;
-
+&lt;p&gt;Locate the domain and click ‘Edit DNS’, then paste the details you copied recently as:&lt;/p&gt;
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;dns1.p01.nsone.net
+dns2.p01.nsone.net
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;p&gt;Paste these into the primary name server and secondary name server fields respectively, and edit DNS. This might take some time to update your DNS, so be patient.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://i.postimg.cc/pVnN2cfW/DNS.jpg&quot; alt=&quot;DNS.jpg&quot; /&gt;
-&lt;small&gt;&lt;em&gt;setting up DNS&lt;/em&gt;&lt;/small&gt;&lt;/p&gt;
+&lt;small&gt;&lt;em&gt;step to setting up DNS&lt;/em&gt;&lt;/small&gt;&lt;/p&gt;
 
 &lt;p&gt;So, after the domain registrar verifies and updates your name server to the Netlify DNS, your &lt;a href=&quot;https://app.netlify.com/sites/bimqzip/domain-management#production-domains&quot;&gt;production domains&lt;/a&gt; look like this:&lt;/p&gt;
 
@@ -121,7 +122,7 @@ dns2.p01.nsone.net
 
 &lt;p&gt;After this, your URL or domain &lt;a href=&quot;http://dhinchakpooja.com.np/&quot;&gt;dhinchakpooja.com.np&lt;/a&gt; is live and can be accessed.&lt;/p&gt;
 
-&lt;h1 id=&quot;realization&quot;&gt;Realization&lt;/h1&gt;
+&lt;h1 id=&quot;goodbye-&quot;&gt;Goodbye !&lt;/h1&gt;
 &lt;p&gt;In this part, I’ve mentioned and clarified how you can get your own domain and host it for free on Netlify with a custom web template. If you want to create your own hardcore-coded website, you can upload it from GitHub and deploy it on Netlify. Alternatively, you can deploy it directly on Netlify. However, I recommend deploying it on GitHub first and then going for Netlify.&lt;/p&gt;
 
 &lt;p&gt;So, that’s all for today. I hope we meet again soon to discuss how you can deploy your own site with actual code from GitHub and then host it either here or on a premium hosting platform, whether it’s a static or dynamic site. Until then, stay curious and keep learning.&lt;/p&gt;
