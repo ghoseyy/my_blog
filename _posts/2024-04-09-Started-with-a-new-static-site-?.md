@@ -6,7 +6,7 @@ tags: [content, blog, tech , informative]
 date: 2024-04-09
 ---
 
-Hello again. I was wasting my time scrolling through Instagram memes and laughing at someone's story. Meanwhile, I felt like I was being dumb or free enough to scroll and kill my valuable time. After thinking for 5 minutes, I came up with a conclusion, "Let's scroll one more time," and the rest is 56 minutes I killed. After this, I decided to write another blog about how to register your free .com.np domain and host using [GitHub]("http://github.com"target="_blank") and [Netlify]("http://netlify.com"target="_blank").
+Hello again. I was wasting my time scrolling through Instagram memes and laughing at someone's story. Meanwhile, I felt like I was being dumb or free enough to scroll and kill my valuable time. After thinking for 5 minutes, I came up with a conclusion, "Let's scroll one more time," and the rest is 56 minutes I killed. After this, I decided to write another blog about how to register your free .com.np domain and host using [GitHub](http://github.com) and [Netlify](http://netlify.com).
 
 Firstly, let's go to [register.com.np](http://register.com.np/) and create your user login. At least if you're a tech guy, you can do this. Do it!
 
