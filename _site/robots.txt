@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /drafts/
+Allow: /images/
+Allow: /assets/
+Allow: /_posts/
+Sitemap: https://bimql.link/sitemap.xml
