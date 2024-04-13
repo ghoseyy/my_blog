@@ -1,37 +1,41 @@
-from google.oauth2 import service_account
-from googleapiclient.discovery import build
+from oauth2client.service_account import ServiceAccountCredentials
+import httplib2
+import json
+import requests
+from xml.etree import ElementTree as ET
 
-def authenticate():
-    credentials = service_account.Credentials.from_service_account_file(
-        '/Users/bimalchhetry/Documents/My_blog/credentials.json',
-        scopes=['https://www.googleapis.com/auth/webmasters']
-    )
+# URL of the sitemap
+sitemap_url = 'https://bimql.link/sitemap.xml'
 
-    service = build('searchconsole', 'v1', credentials=credentials)
-    return service
+# Path to the service account JSON key file
+JSON_KEY_FILE = "/Users/bimalchhetry/Documents/API/credentials.json"
 
-def submit_url(service, site_url, url):
-    try:
-        request = service.sites().inspect(
-            url=site_url + url
-        ).execute()
-        print(f"Submitted {url} for indexing.")
-    except Exception as e:
-        print(f"Error submitting {url} for indexing: {e}")
+SCOPES = ["https://www.googleapis.com/auth/indexing"]
+ENDPOINT = "https://indexing.googleapis.com/v3/urlNotifications:publish"
 
-def main():
-    service = authenticate()
-    if not service:
-        return
+# Authorize credentials
+credentials = ServiceAccountCredentials.from_json_keyfile_name(JSON_KEY_FILE, scopes=SCOPES)
+http = credentials.authorize(httplib2.Http())
 
-    site_url = 'https://bimql.link/'
+# Fetch the sitemap XML
+response = requests.get(sitemap_url)
+sitemap_xml = response.text
 
-    updated_urls = [
-        'crafting-minimal-logo'
-    ]
+# Parse the sitemap XML
+sitemap_root = ET.fromstring(sitemap_xml)
 
-    for url in updated_urls:
-        submit_url(service, site_url, url)
+# Iterate over URLs in the sitemap
+for child in sitemap_root:
+    url = child[0].text  # Assuming the <loc> tag contains the URL
 
-if __name__ == '__main__':
-    main()
+    # Build the request body
+    content = {}
+    content['url'] = url
+    content['type'] = "URL_UPDATED"
+    json_content = json.dumps(content)
+
+    response, content = http.request(ENDPOINT, method="POST", body=json_content)
+    result = json.loads(content.decode())
+
+    # Handle the result as needed
+    print(result)
