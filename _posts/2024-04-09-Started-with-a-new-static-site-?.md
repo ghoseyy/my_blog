@@ -126,7 +126,7 @@ So, after the domain registrar verifies and updates your name server to the Netl
 
 After this, your URL or domain [dhinchakpooja.com.np](http://dhinchakpooja.com.np/) is live and can be accessed.
 
-# Goodbye !
+# Goodbye !!
 In this part, I've mentioned and clarified how you can get your own domain and host it for free on Netlify with a custom web template. If you want to create your own hardcore-coded website, you can upload it from GitHub and deploy it on Netlify. Alternatively, you can deploy it directly on Netlify. However, I recommend deploying it on GitHub first and then going for Netlify.
 
 So, that's all for today. I hope we meet again soon to discuss how you can deploy your own site with actual code from GitHub and then host it either here or on a premium hosting platform, whether it's a static or dynamic site. Until then, stay curious and keep learning.
