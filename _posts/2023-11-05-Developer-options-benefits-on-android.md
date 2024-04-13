@@ -2,7 +2,6 @@
 layout: post
 title: Android debugging tool
 tags: [google, tutorial, search , technique]
-thumbnail: /assets/images/favicon/adbthumb.jpeg
 ---
 
 # Using ADB Tool for Wireless File Sharing on Mac with Android
