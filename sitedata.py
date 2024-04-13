@@ -21,7 +21,7 @@ def get_site_data(url):
             website_id = site_entry["id"]
             # Get the site data.
             site_data = client.sites().searchanalytics().query(
-                siteUrl=url, startDate="2022-01-01", endDate="2024-12-31").execute()
+                siteUrl=url, startDate="2022-01-01", endDate="2023-12-31").execute()
             # Print the site data.
             print(site_data)
         else:
@@ -30,4 +30,4 @@ def get_site_data(url):
         print("Error:", e)
 
 # Call the function with the URL "bimql.link"
-get_site_data("https://bimql.link")
+get_site_data("bimql.link")
