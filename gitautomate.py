@@ -15,8 +15,11 @@ try:
     # Add all changes to the staging area
     git.add('--all')
 
+     # Ask user for commit message
+    commit_message = input("Enter your commit message: ")
+
     # Commit changes
-    git.commit('-m', 'Automated commit')
+    git.commit('-m', commit_message)
 
     # Push changes to the remote repository
     git.push()
