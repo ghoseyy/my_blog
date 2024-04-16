@@ -13,7 +13,7 @@ Firstly, let's go to [register.com.np](http://register.com.np/) and create your 
 Next, let's search for a domain name. You know what a [domain name](https://www.cloudflare.com/en-gb/learning/dns/glossary/what-is-a-domain-name/) is, right? Okay, after that, let's search for a name called "dhinchakpooja" (she sang a lot and then stopped. I don't know why, but yes, that was her life's best decision). Voila, the name is available!
 
 ![register.com.np page](https://i.postimg.cc/L5Jbh5YQ/domain-registar.jpg)
-<small><em><a href="http://register.com.np" target="_blank">register.com.np page</a></em></small>
+<small><em><a href="http://register.com.np" target="_blank">Screenshot of register.com.np homepage.</a></em></small>
 
 Click "Register", which leads you to a page where you might get confused about the DNS server. Don't worry, there's an example of a DNS. Copy this and save it for now, as we will change it later. After the DNS section, there are more details to fill in, like administrative details and technical contact etc. Save and continue.
 
@@ -24,7 +24,7 @@ After this, the part where the following documents are required:
 3. Additional Documents (these will be optional)
 
 ![Documents requirements](https://i.postimg.cc/jSh0pWzy/letters.jpg)
-<small><em>Documents requirements</em></small>
+<small><em>List of document requirements for registration.</em></small>
 
 Save the documents, upload, and continue. Save and repeat two or three times as per the documents needed and click next. This will send the application to the registrar's office, which will take 1-2 days to approve your domain. If not approved, you may have a lack of documents, so recheck and resubmit until you get your domain. Keep following up with them, my boy!
 
