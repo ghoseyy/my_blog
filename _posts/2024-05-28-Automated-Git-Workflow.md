@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Automated Git Workflow: Pull, Commit, and Push with Python"
+title: "Automated Git Workflow with Python"
 tags: [python, blog, tech , informative]
 
 date: 2024-05-28
