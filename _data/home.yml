@@ -32,7 +32,7 @@ project_entries:
     desc: Documentation for Creating New Sites on Jekyll, easy setup
 
   - title: Creating new website
-    url: Started-with-a-new-static-site-?
+    url: Started-with-a-new-static-site
     desc: This blog provided info on getting your own domain and free hosting.
     highlight: 
 
