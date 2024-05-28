@@ -31,9 +31,9 @@ project_entries:
     url: new-post-on-site
     desc: Documentation for Creating New Sites on Jekyll, easy setup
 
-  - title: contribution
-    url: How-to-Contribute-to-Open-Source
-    desc: Open source contributes to skill growth, community, and potential earnings.
+  - title: Creating new website
+    url: Started-with-a-new-static-site-?
+    desc: From this blog, you were able to get information about getting your own domain and free hosting.
     highlight: 
 
 old_project_entries:
