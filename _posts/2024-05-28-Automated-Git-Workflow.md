@@ -16,17 +16,16 @@ here is how this works
 4. Commit changes
 5. Push changes to the remote repository
 
-To perform this you have to go through this steps.
+# To perform this you have to go through this steps.
 
-how to install Python on your device: [Python installation](https://realpython.com/installing-python/)
+how to install Python on your device:[Python installation](https://realpython.com/installing-python/)
 
-After installing Python, run the following code in your terminal. This library is used for interacting with Git repositories.
+The following library is used for interacting with Git repositories, run the following code in your terminal.
 
 ```bash
 pip3 install gitpython
 ```
-
-After installing the necessary libraries, copy and paste the following code. Save it under your preferred name.
+after installing the necessary libraries, copy and paste the following code. Save it under your preferred name.
 ```bash
 import os
 from git import Repo, GitCommandError
@@ -67,6 +66,6 @@ repo_path = 'the path to your local Git repository'.
 
 After specifying the repository path, run the program. Your terminal will then prompt you to enter your commit message.
 
-After committing your changes, the final message displayed is: "Successfully pushed changes to GitHub."
+After committing your changes, the final message displayed as: "Successfully pushed changes to GitHub."
 
 Then, your repository will be successfully pushed.
