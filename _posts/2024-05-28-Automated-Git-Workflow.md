@@ -6,8 +6,7 @@ tags: [python, blog, tech , informative]
 date: 2024-05-28
 ---
 
-I have a script in my GitHub repo. It saves time by doing all the tasks needed to update code. This script takes care of all the git pull and push actions.
-
+This script takes care of all the git pull and push actions.
 here is how this works
 
 1. Pull changes from the remote repository
@@ -34,7 +33,7 @@ import os
 from git import Repo, GitCommandError
 
 # Define the path to your local Git repository
-repo_path = '/Users/bimalchhetry/Documents/My_blog'
+repo_path = '/Users/bimql/desktop/gitautomate' #example path
 
 # Initialize the repository object
 repo = Repo(repo_path)
