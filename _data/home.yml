@@ -8,6 +8,8 @@ navbar_entries:
   - title: website
     url: https://ghoseyy.com/
 
+  - title: resume
+    url: /resume/
 project_entries:
   - title: Using adb tool for MAC
     url: Developer-options-benefits-on-android
