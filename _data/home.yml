@@ -2,8 +2,8 @@ navbar_entries:
   - title: blog
     url: blog
 
-  - title: about
-    url: about
+  # - title: about
+  #   url: about
 
   - title: website
     url: https://ghoseyy.com/
