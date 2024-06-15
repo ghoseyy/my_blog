@@ -26,10 +26,31 @@
   <meta name="theme-color" content="#ffffff">
   <!-- Favicon -->
 
-  <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}" />
+  <!-- Preload combined Google Fonts request -->
+  <link rel="preload" href="https://fonts.googleapis.com/css2?family=Roboto+Mono&family=Inter:wght@400;700&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <noscript>
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto+Mono&family=Inter:wght@400;700&display=swap">
+  </noscript>
+  
+  <!-- Inline Critical CSS with Fallback Fonts -->
+  <style>
+      body {
+         font-family: 'Inter', Arial, sans-serif;
+      }
+      code {
+         font-family: 'Roboto Mono', monospace;
+      }
+      /* Additional critical styles can go here */
+  </style>
+  
+  <!-- Link to main stylesheet -->
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}" />
+  
+  <!-- Toggle theme JS (if applicable) -->
   {% if site.theme_config.appearance_toggle %}
     {% include toggle_theme_js.html %}
   {% endif %}
 
+  <!-- Custom head content -->
   {%- include custom_head.html -%}
 </head>

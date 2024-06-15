@@ -30,7 +30,7 @@
 <meta name="twitter:site" content="@ghoseyy" />
 <meta name="twitter:creator" content="@Bimal chhetry" />
 <script type="application/ld+json">
-{"headline":"Crafting a Minimal and Meaningful Logo","dateModified":"2024-03-16T00:00:00+05:45","url":"http://localhost:4000/crafting-minimal-logo","@type":"BlogPosting","description":"Crafting Minimal Logo","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/crafting-minimal-logo"},"datePublished":"2024-03-16T00:00:00+05:45","author":{"@type":"Person","name":"Bimal chhetry"},"@context":"https://schema.org"}</script>
+{"url":"http://localhost:4000/crafting-minimal-logo","description":"Crafting Minimal Logo","author":{"@type":"Person","name":"Bimal chhetry"},"@type":"BlogPosting","headline":"Crafting a Minimal and Meaningful Logo","dateModified":"2024-03-16T00:00:00+05:45","datePublished":"2024-03-16T00:00:00+05:45","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/crafting-minimal-logo"},"@context":"https://schema.org"}</script>
 <script async defer data-soopr-token="" src="https://sdk.soopr.co/soopr.js"  ></script>
 <!-- End Jekyll SEO tag -->
 
@@ -48,7 +48,27 @@
   <meta name="theme-color" content="#ffffff">
   <!-- Favicon -->
 
+  <!-- Preload combined Google Fonts request -->
+  <link rel="preload" href="https://fonts.googleapis.com/css2?family=Roboto+Mono&family=Inter:wght@400;700&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <noscript>
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto+Mono&family=Inter:wght@400;700&display=swap">
+  </noscript>
+  
+  <!-- Inline Critical CSS with Fallback Fonts -->
+  <style>
+      body {
+         font-family: 'Inter', Arial, sans-serif;
+      }
+      code {
+         font-family: 'Roboto Mono', monospace;
+      }
+      /* Additional critical styles can go here */
+  </style>
+  
+  <!-- Link to main stylesheet -->
   <link rel="stylesheet" href="/assets/css/main.css" />
+  
+  <!-- Toggle theme JS (if applicable) -->
   
     <script type="text/javascript">
   window.addEventListener('load', themeChange);
@@ -83,6 +103,8 @@
 
 
   
+
+  <!-- Custom head content -->
 </head>
 <!-- Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-DCGXC3Z685"></script>

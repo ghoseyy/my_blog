@@ -28,7 +28,7 @@
 <meta name="twitter:site" content="@ghoseyy" />
 <meta name="twitter:creator" content="@Bimal chhetry" />
 <script type="application/ld+json">
-{"headline":"bimql.69","url":"http://localhost:4000/","@type":"WebSite","description":"69 mistakes, but who cares? I call it a life well-lived.","author":{"@type":"Person","name":"Bimal chhetry"},"name":"bimql.69","@context":"https://schema.org"}</script>
+{"url":"http://localhost:4000/","description":"69 mistakes, but who cares? I call it a life well-lived.","author":{"@type":"Person","name":"Bimal chhetry"},"@type":"WebSite","headline":"bimql.69","name":"bimql.69","@context":"https://schema.org"}</script>
 <script async defer data-soopr-token="" src="https://sdk.soopr.co/soopr.js"  ></script>
 <!-- End Jekyll SEO tag -->
 
@@ -46,7 +46,27 @@
   <meta name="theme-color" content="#ffffff">
   <!-- Favicon -->
 
+  <!-- Preload combined Google Fonts request -->
+  <link rel="preload" href="https://fonts.googleapis.com/css2?family=Roboto+Mono&family=Inter:wght@400;700&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <noscript>
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto+Mono&family=Inter:wght@400;700&display=swap">
+  </noscript>
+  
+  <!-- Inline Critical CSS with Fallback Fonts -->
+  <style>
+      body {
+         font-family: 'Inter', Arial, sans-serif;
+      }
+      code {
+         font-family: 'Roboto Mono', monospace;
+      }
+      /* Additional critical styles can go here */
+  </style>
+  
+  <!-- Link to main stylesheet -->
   <link rel="stylesheet" href="/assets/css/main.css" />
+  
+  <!-- Toggle theme JS (if applicable) -->
   
     <script type="text/javascript">
   window.addEventListener('load', themeChange);
@@ -81,6 +101,8 @@
 
 
   
+
+  <!-- Custom head content -->
 </head>
 <!-- Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-DCGXC3Z685"></script>
