@@ -1,15 +1,15 @@
-title: bimql.69
-author: Bimal chhetry
-url: https://bimql.link  # Update the root address of the site
-description: > # description of the site (multiple lines allowed)
-   69 mistakes, but who cares? I call it a life well-lived.
+title: "bimql.69"
+author: "Bimal chhetry"
+url: "https://bimql.link"  # Update the root address of the site
+description: >
+  69 mistakes, but who cares? I call it a life well-lived.
 permalink: /:slug
 
 favicon: "./logo.png" # relative path to site's favicon
 
 twitter:
-    username: ghoseyy # update or delete this
-    card: summary_large_image
+  username: ghoseyy # update or delete this
+  card: summary_large_image
 
 #theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
 #remote_theme: abhinavs/moonwalk
@@ -23,7 +23,7 @@ theme_config:
   show_navbar: true # show horizontal navbar
   show_footer: true # show footer links in home page,add in _data/home.yml
   show_copyright: true # show copyright notice in footer
-  # following keys are using to create home layout
+  # following keys are used to create home layout
   show_projects: true # show projects as cards, add in _data/home.yml
   #show_blog: true # show blog posts added in _posts
   show_old_projects: true # show old projects as cards, add in _data/home.yml
@@ -49,5 +49,14 @@ plugins:
   - jekyll-feed
   - jekyll-soopr-seo-tag
   - jekyll-sitemap
- 
+  - jekyll-assets # Add this line to enable Jekyll Assets
+
+assets:
+  compress:
+    css: true
+    js: true
+  sources:
+    - _assets/css
+    - _assets/js
+
 include: ["<iframe>"]
