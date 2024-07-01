@@ -88,9 +88,20 @@ Pradhymna Paneru Higher Secondary School - Syangja
 - [Ghoseyy](https://ghoseyy.com/)
 - [Behance](https://www.behance.net/bimalchhetry)
 - [LinkedIn](https://www.linkedin.com/in/bimal-chhetri-1604111bb/)
+- [Github](https://github.com/ghoseyy)
 
 ## Additional Information
 <hr>
 
 - **Increased Brand Visibility:** Implemented social media strategies at Yarsa Tech, resulting in a 30% increase in brand visibility.
 - **Cost Efficiency:** Identified and implemented cost-saving measures, leading to a $5,000 reduction in operating costs within the first 60 days of a previous role.
+
+## References
+<hr>
+
+<b>Prakash Poudel<br>
+<p style="opacity: 0.8;">
+  CEO, <a href="https://www.vtechnepal.com/">vtechnepal</a> <br>
+  <a href="mailto:poudelprakash25@gmail.com">poudelprakash25@gmail.com</a> | <a href="tel:+9779825167890">+977-98251 67890</a> <br>
+  <!-- <hr style="width: 50%; border: 1px solid #fff; opacity: 0.5;"> -->
+</p>
