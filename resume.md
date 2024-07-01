@@ -83,12 +83,9 @@ Pradhymna Paneru Higher Secondary School - Syangja
 ## Links
 <hr>
 
-- [Bimql.link](https://bimql.link/)
-- [Dribbble](https://dribbble.com/bimal28)
-- [Ghoseyy](https://ghoseyy.com/)
-- [Behance](https://www.behance.net/bimalchhetry)
-- [LinkedIn](https://www.linkedin.com/in/bimal-chhetri-1604111bb/)
-- [Github](https://github.com/ghoseyy)
+- [Bimql.link](https://bimql.link/) • [Dribbble](https://dribbble.com/bimal28) • [Ghoseyy](https://ghoseyy.com/) <br>
+- [Behance](https://www.behance.net/bimalchhetry) • [LinkedIn](https://www.linkedin.com/in/bimal-chhetri-1604111bb/) • [Github](https://github.com/ghoseyy)
+
 
 ## Additional Information
 <hr>
