@@ -19,7 +19,7 @@ Dedicated and results-driven professional with a diverse skill set in IT, graphi
 <hr>
 
 **Design, Branding & Social Media Executive**  
-Yarsa Tech - Kaski  
+<a href="https://yarsa.tech/" style="text-decoration: none; color: inherit;" target="_blank">Yarsa Tech - Kaski</a><br>
 February 2022 to Present
 
 - Spearheading the development and execution of comprehensive social media marketing strategies, resulting in a 30% increase in brand visibility and engagement.
@@ -27,7 +27,7 @@ February 2022 to Present
 - Managing content creation for various platforms, including blog posts, social media updates, and promotional materials, driving website traffic by 25%.
 
 **UI/UX Designer**  
-Aama Technology Pvt. Ltd. - Kaski  
+<a href="https://aamatechnology.com.np/" style="text-decoration: none; color: inherit;" target="_blank">Aama Technology Pvt. Ltd. - Kaski</a><br>
 October 2023 to Present
 
 - Designed intuitive and visually appealing user interfaces (UI) with a focus on user experience (UX), ensuring seamless navigation and enhanced usability across digital platforms.
@@ -42,7 +42,7 @@ During this period, I took a deliberate break to focus on personal and professio
 - Family Care: Devoted time to family responsibilities, emphasizing the importance of work-life balance.
 
 **Graphic Designer**  
-Medicos International - Chitwan  
+<a href="https://play.google.com/store/apps/details?id=com.rjl.bookapp&hl=en&pli=1" style="text-decoration: none; color: inherit;" target="_blank">Medicos International - Chitwan</a><br> 
 March 2021 to September 2021
 
 - Contributed to the conceptualization and design of app and gaming interfaces, enhancing the overall user experience.
@@ -52,11 +52,11 @@ March 2021 to September 2021
 <hr>
 
 **Bachelors in Information Technology**  
-La Grandee International College - Kaski  
+<a href="https://lagrandee.edu.np/" style="text-decoration: none; color: inherit;" target="_blank">La Grandee International College - Kaski</a><br>
 November 2018 to Present
 
 **Science Stream**  
-Janapriya Multiple Campus - Kaski  
+<a href="https://janapriya.edu.np/" style="text-decoration: none; color: inherit;" target="_blank">Janapriya Multiple Campus - Kaski</a> <br>
 2015-2017
 
 **SLC**  
