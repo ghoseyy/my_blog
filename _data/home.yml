@@ -53,6 +53,18 @@ old_project_entries:
     url: https://www.pexels.com/@bimal-chhetry-162267621/
     desc: I'm curious if I've taken too many photos.
 
+  - title: Notepad
+    url: https://bimql.vercel.app/
+    desc: I decided to create my own.
+
+  - title: Projekt69
+    url: https://www.projekt69.com/
+    desc: Decided to continue projects to products.
+
+  - title: Asal Nagarik
+    url: https://asalnagarik.com/
+    desc: From College Groupchat to the memory lane.
+
 footer_entries:
   # - title: Ghoseyy's homepage
   #   url: https://ghoseyy.com/
