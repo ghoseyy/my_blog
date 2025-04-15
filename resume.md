@@ -53,7 +53,7 @@ March 2021 to September 2021
 
 **Bachelors in Information Technology**  
 <a href="https://lagrandee.edu.np/" style="text-decoration: none; color: inherit;" target="_blank">La Grandee International College - Kaski</a><br>
-November 2018 to Present
+November 2018 to August 2024
 
 **Science Stream**  
 <a href="https://janapriya.edu.np/" style="text-decoration: none; color: inherit;" target="_blank">Janapriya Multiple Campus - Kaski</a> <br>
