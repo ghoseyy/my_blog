@@ -4,7 +4,7 @@ title: Bimal chhetry resume
 permalink: /resume/
 ---
 
-# Bimal Chhetry
+Bimal Chhetry
 
 Kathmandu
 
@@ -48,22 +48,6 @@ March 2021 to September 2021
 - Contributed to the conceptualization and design of app and gaming interfaces, enhancing the overall user experience.
 - Gained hands-on experience in graphic design tools and methodologies, applying creative solutions to real-world design challenges.
 
-## Projects
-<hr>
-
-**Ludo Universe – iOS & Android Game**  
-<a href="https://play.google.com/store/apps/details?id=com.bimql.ludo" target="_blank" style="text-decoration: none; color: inherit;">Virtual Technology</a>  
-- Successfully developed and published a cross-platform mobile game using **React Native** and **Expo**.  
-- Tech Stack:  
-  - **Core Framework:** React Native (v0.73.4), Expo (v50.0.0)  
-  - **Language:** TypeScript (v5.1.3)  
-  - **State Management:** Redux Toolkit (v2.8.2), React Redux (v9.2.0), Redux Persist (v6.0.0)  
-  - **UI/UX Components:** React Navigation (v6.1.18), React Native Linear Gradient, Lottie React Native, React Native Modal, SVG, Gesture Handler, Reanimated  
-  - **Storage:** React Native MMKV  
-  - **Sound:** React Native Sound Player  
-  - **Development Tools:** Babel, TypeScript, Expo Dev Client  
-- Designed with a scalable architecture, optimized for both iOS and Android platforms.
-
 ## Education
 <hr>
 
@@ -82,18 +66,19 @@ Pradhymna Paneru Higher Secondary School - Syangja
 ## Skills
 <hr>
 
-- UI/UX Design  
-- Dynamic Programming Languages  
-- Design & Branding  
-- Digital Marketing, SMM & SEO  
-- Adobe Suite Packages  
-- Photography & Video Production  
+- UI/UX Design
+- Dynamic Programming Languages
+- Design & Branding
+- Digital Marketing, SMM & SEO
+- Adobe Suite Packages
+- Photography & Video Production
+
 
 ## Languages
 <hr>
 
-- English - Intermediate  
-- Hindi - Intermediate  
+- English - Intermediate
+- Hindi - Intermediate
 
 ## Links
 <hr>
@@ -101,17 +86,19 @@ Pradhymna Paneru Higher Secondary School - Syangja
 - [Bimql.link](https://bimql.link/) • [Dribbble](https://dribbble.com/bimal28) • [Ghoseyy](https://ghoseyy.com/) <br>
 - [Behance](https://www.behance.net/bimalchhetry) • [LinkedIn](https://www.linkedin.com/in/bimal-chhetri-1604111bb/) • [Github](https://github.com/ghoseyy)
 
+
 ## Additional Information
 <hr>
 
-- **Increased Brand Visibility:** Implemented social media strategies at Yarsa Tech, resulting in a 30% increase in brand visibility.  
+- **Increased Brand Visibility:** Implemented social media strategies at Yarsa Tech, resulting in a 30% increase in brand visibility.
 - **Cost Efficiency:** Identified and implemented cost-saving measures, leading to a $5,000 reduction in operating costs within the first 60 days of a previous role.
 
 ## References
 <hr>
 
-<b>Prakash Poudel</b><br>
+<b>Prakash Poudel<br>
 <p style="opacity: 0.8;">
   CEO, <a href="https://www.vtechnepal.com/">vtechnepal</a> <br>
   <a href="mailto:poudelprakash25@gmail.com">poudelprakash25@gmail.com</a> | <a href="tel:+9779825167890">+977-98251 67890</a> <br>
+  <!-- <hr style="width: 50%; border: 1px solid #fff; opacity: 0.5;"> -->
 </p>
