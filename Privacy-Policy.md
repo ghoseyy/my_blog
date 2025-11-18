@@ -209,6 +209,6 @@ If changes are material, I may provide additional notice (for example, in the ap
 
 If you have any questions about this Privacy Policy, or want to make a request regarding your personal information, you can contact me at:
 
-**[YOUR FULL NAME]**  
-Email: [bimal.chhetry122@gmail.com]  
-Website: [wwww.bimql.link](https:www.bimql.link)
+**Bimql Chhetry**  
+Email: [bimal.chhetry122@gmail.com](mailto:bimal.chhetry122@gmail.com)  
+Website: [www.bimql.link](https://www.bimql.link)
