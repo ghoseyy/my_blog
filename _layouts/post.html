@@ -2,9 +2,15 @@
 layout: default
 ---
 
+{%- unless page.hide_nav %}
 <a href="{{ "/" | relative_url }}">{{ site.theme_config.back_home_text }}</a>
+{%- endunless %}
+
 <h1 class="post-title">{{ page.title }}</h1>
+
+{%- unless page.hide_reading_time %}
 {% include date_and_social_share.html %}
+{%- endunless %}
 
 <!-- Check if a thumbnail image is specified for the post -->
 {% if page.thumbnail %}

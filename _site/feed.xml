@@ -1,4 +1,62 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-01-26T15:06:52+05:45</updated><id>http://localhost:4000/feed.xml</id><title type="html">bimql.69</title><subtitle>69 mistakes, but who cares? I call it a life well-lived.</subtitle><author><name>Bimal chhetry</name></author><entry><title type="html">Text-to-Speech with Python</title><link href="http://localhost:4000/text-to-speech-with-python" rel="alternate" type="text/html" title="Text-to-Speech with Python" /><published>2024-10-20T00:00:00+05:45</published><updated>2024-10-20T00:00:00+05:45</updated><id>http://localhost:4000/Text-To-Speech-With-Python</id><content type="html" xml:base="http://localhost:4000/text-to-speech-with-python">&lt;p&gt;Today, I want to share with you a simple and fast way to generate text-to-speech using a Python library called Edge TTS (version 6.1.14). If you’re not familiar with technology, don’t worry! I’ll break it down step by step.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-11-18T16:34:33+05:45</updated><id>http://localhost:4000/feed.xml</id><title type="html">bimql.69</title><subtitle>69 mistakes, but who cares? I call it a life well-lived.</subtitle><author><name>Bimal chhetry</name></author><entry><title type="html">Privacy Policy for Quotes Reader</title><link href="http://localhost:4000/privacy-policy-quotes-reader-copy" rel="alternate" type="text/html" title="Privacy Policy for Quotes Reader" /><published>2025-03-16T00:00:00+05:45</published><updated>2025-03-16T00:00:00+05:45</updated><id>http://localhost:4000/Privacy-Policy-Quotes-Reader%20copy</id><content type="html" xml:base="http://localhost:4000/privacy-policy-quotes-reader-copy">&lt;h2 id=&quot;privacy-policy-for-quotes-reader&quot;&gt;Privacy Policy for Quotes Reader&lt;/h2&gt;
+
+&lt;p&gt;Effective Date: March 16, 2025&lt;/p&gt;
+
+&lt;p&gt;At Quotes Reader, we take your privacy seriously. This Privacy Policy explains how we collect, use, and protect your information when you use our app.&lt;/p&gt;
+
+&lt;h3 id=&quot;1-information-we-collect&quot;&gt;1. Information We Collect&lt;/h3&gt;
+
+&lt;p&gt;We do not collect any personally identifiable information. However, we may collect the following types of non-personal data:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Usage Data:&lt;/strong&gt; Information about how you interact with the app, such as screen views, time spent in the app, and navigation patterns. This helps us improve the app’s performance and functionality.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Device Information:&lt;/strong&gt; Non-personal information such as your device model, operating system version, and app version to optimize app performance and troubleshoot issues.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;2-how-we-use-your-information&quot;&gt;2. How We Use Your Information&lt;/h3&gt;
+
+&lt;p&gt;We use the collected data to:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Improve the functionality and user experience of the app.&lt;/li&gt;
+  &lt;li&gt;Analyze usage patterns to optimize performance.&lt;/li&gt;
+  &lt;li&gt;Fix bugs and ensure the app runs smoothly.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;3-third-party-services&quot;&gt;3. Third-Party Services&lt;/h3&gt;
+
+&lt;p&gt;Our app may use third-party services that could collect data as per their respective privacy policies:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Analytics Tools:&lt;/strong&gt; To help us understand user behavior and improve app features.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Ad Networks:&lt;/strong&gt; If applicable, to display relevant advertisements.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;These third-party services may collect information like usage data, device info, and cookies, which is subject to their respective privacy policies.&lt;/p&gt;
+
+&lt;h3 id=&quot;4-data-sharing--security&quot;&gt;4. Data Sharing &amp;amp; Security&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;We do not sell or share your personal data with third parties.&lt;/li&gt;
+  &lt;li&gt;We implement appropriate security measures to protect your data, including encryption and access controls.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;5-childrens-privacy&quot;&gt;5. Children’s Privacy&lt;/h3&gt;
+
+&lt;p&gt;Our app does not knowingly collect data from children under the age of 13. If we become aware that a child under 13 has provided personal data, we will take appropriate steps to remove that information.&lt;/p&gt;
+
+&lt;h3 id=&quot;6-changes-to-this-policy&quot;&gt;6. Changes to This Policy&lt;/h3&gt;
+
+&lt;p&gt;We may update this Privacy Policy periodically. All changes will be posted in the app or on our website. We encourage you to review the policy regularly to stay informed about how we protect your data.&lt;/p&gt;
+
+&lt;h3 id=&quot;7-contact-us&quot;&gt;7. Contact Us&lt;/h3&gt;
+
+&lt;p&gt;If you have any questions or concerns about this Privacy Policy, feel free to contact us:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Email: &lt;a href=&quot;mailto:bimal.chhetry122@gmail.com&quot;&gt;bimal.chhetry122@gmail.com&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Website: &lt;a href=&quot;https://www.projekt69.com/&quot;&gt;https://www.projekt69.com/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Bimal chhetry</name></author><category term="Python" /><category term="Text-to-Speech" /><summary type="html">Privacy Policy for Quotes Reader</summary></entry><entry><title type="html">Text-to-Speech with Python</title><link href="http://localhost:4000/text-to-speech-with-python" rel="alternate" type="text/html" title="Text-to-Speech with Python" /><published>2024-10-20T00:00:00+05:45</published><updated>2024-10-20T00:00:00+05:45</updated><id>http://localhost:4000/Text-To-Speech-With-Python</id><content type="html" xml:base="http://localhost:4000/text-to-speech-with-python">&lt;p&gt;Today, I want to share with you a simple and fast way to generate text-to-speech using a Python library called Edge TTS (version 6.1.14). If you’re not familiar with technology, don’t worry! I’ll break it down step by step.&lt;/p&gt;
 
 &lt;h2 id=&quot;what-you-need&quot;&gt;What You Need&lt;/h2&gt;
 
@@ -104,7 +162,7 @@ here is how this works&lt;/p&gt;
 from git import Repo, GitCommandError
 
 &lt;span class=&quot;c&quot;&gt;# Define the path to your local Git repository&lt;/span&gt;
-repo_path &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&apos;/Users/bimql/desktop/gitautomate&apos;&lt;/span&gt; &lt;span class=&quot;c&quot;&gt;#example path&lt;/span&gt;
+repo_path &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'/Users/bimql/desktop/gitautomate'&lt;/span&gt; &lt;span class=&quot;c&quot;&gt;#example path&lt;/span&gt;
 
 &lt;span class=&quot;c&quot;&gt;# Initialize the repository object&lt;/span&gt;
 repo &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; Repo&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;repo_path&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
@@ -112,9 +170,9 @@ git &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; repo.git
 
 try:
     git.pull&lt;span class=&quot;o&quot;&gt;()&lt;/span&gt;
-    git.add&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&apos;--all&apos;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
+    git.add&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'--all'&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
     commit_message &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; input&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Enter your commit message: &quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
-    git.commit&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&apos;-m&apos;&lt;/span&gt;, commit_message&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
+    git.commit&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'-m'&lt;/span&gt;, commit_message&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
     git.push&lt;span class=&quot;o&quot;&gt;()&lt;/span&gt;
 
     print&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Successfully pushed changes to GitHub.&quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
@@ -134,7 +192,7 @@ except Exception as e:
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;h1 id=&quot;configuration&quot;&gt;Configuration&lt;/h1&gt;
 &lt;p&gt;In this code, you only need to change this part:&lt;/p&gt;
-&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;repo_path &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&apos;the path to your local Git repository&apos;&lt;/span&gt;
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;repo_path &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'the path to your local Git repository'&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;h1 id=&quot;run-the-program&quot;&gt;Run the Program&lt;/h1&gt;
 &lt;p&gt;After specifying the repository path, run the program. Your terminal will prompt you to enter your commit message. After committing your changes, the final message displayed will be: “Successfully pushed changes to GitHub.”&lt;/p&gt;</content><author><name>Bimal chhetry</name></author><category term="python" /><category term="blog" /><category term="tech" /><category term="informative" /><summary type="html">This script takes care of all the git pull and push actions. here is how this works</summary></entry><entry><title type="html">Started with a new static site ?</title><link href="http://localhost:4000/started-with-a-new-static-site" rel="alternate" type="text/html" title="Started with a new static site ?" /><published>2024-04-09T00:00:00+05:45</published><updated>2024-04-09T00:00:00+05:45</updated><id>http://localhost:4000/Started-with-a-new-static-site</id><content type="html" xml:base="http://localhost:4000/started-with-a-new-static-site">&lt;p&gt;Hello again. I was wasting my time scrolling through Instagram memes and laughing at someone’s story. Meanwhile, I felt like I was being dumb or free enough to scroll and kill my valuable time. After thinking for 5 minutes, I came up with a conclusion, “Let’s scroll one more time,” and the rest is 56 minutes I killed. After this, I decided to write another blog about how to register your free .com.np domain and host using &lt;a href=&quot;http://github.com&quot;&gt;GitHub&lt;/a&gt; and &lt;a href=&quot;http://netlify.com&quot;&gt;Netlify&lt;/a&gt;.&lt;/p&gt;
@@ -606,48 +664,4 @@ adb connect &amp;lt;your_ip_address&amp;gt;:5555
       &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;site:*.com&lt;/code&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Bimal chhetry</name></author><category term="google" /><category term="tutorial" /><category term="search" /><category term="technique" /><summary type="html">Google Dork Cheat Sheet A “Google dork” is a search string used to find specific information on the internet using Google’s search engine. It involves using advanced search operators to refine results and can be used for various purposes, including security testing. However, it’s important to use these techniques responsibly and legally.</summary></entry><entry><title type="html">Creating New site in Jekyll</title><link href="http://localhost:4000/new-post-on-site" rel="alternate" type="text/html" title="Creating New site in Jekyll" /><published>2023-03-04T00:00:00+05:45</published><updated>2023-03-04T00:00:00+05:45</updated><id>http://localhost:4000/new-post-on-site</id><content type="html" xml:base="http://localhost:4000/new-post-on-site">&lt;h1 id=&quot;documentation-for-creating-new-sites-on-jekyll&quot;&gt;Documentation for Creating New Sites on Jekyll&lt;/h1&gt;
-
-&lt;p&gt;When creating a new post, remember not to set the date beyond the current date. To create a new post, follow this format: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YYYY-MM-DD-TITLE-OF-YOUR-PROJECT.md&lt;/code&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;using-the-command-line&quot;&gt;Using the Command Line&lt;/h2&gt;
-
-&lt;p&gt;To create a new post, use the following command:&lt;/p&gt;
-
-&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nb&quot;&gt;touch &lt;/span&gt;_posts/2023-11-01-my-new-post.md
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;h2 id=&quot;running-the-jekyll-server&quot;&gt;Running the Jekyll Server&lt;/h2&gt;
-
-&lt;p&gt;To start the Jekyll development server, run this command:&lt;/p&gt;
-
-&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;jekyll serve
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;After running this command, you can open a web browser and navigate to http://localhost:4000 (or the custom URL if you’ve configured it differently) to see your site as it will appear when deployed.&lt;/p&gt;
-
-&lt;p&gt;Once you are satisfied with the local version, you can use jekyll build to generate the final version of your site, which can be deployed to a web server or hosting platform.&lt;/p&gt;
-
-&lt;h2 id=&quot;stage-your-changes&quot;&gt;Stage your changes&lt;/h2&gt;
-
-&lt;p&gt;Stage your changes: Before you commit, you need to stage the changes you want to include in the commit. You can do this using the git add command. For example:&lt;/p&gt;
-
-&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git add &lt;span class=&quot;nb&quot;&gt;.&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;committing-changes-to-git&quot;&gt;Committing Changes to Git&lt;/h2&gt;
-
-&lt;p&gt;After making changes, commit them to your Git repository with a meaningful message:&lt;/p&gt;
-
-&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git commit &lt;span class=&quot;nt&quot;&gt;-m&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Add a descriptive message here&quot;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;h2 id=&quot;pull-the-git&quot;&gt;Pull the git&lt;/h2&gt;
-&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;git&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;pull&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;origin&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;master&lt;/span&gt; 
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;h2 id=&quot;pushing-changes-from-git&quot;&gt;Pushing Changes from Git&lt;/h2&gt;
-
-&lt;p&gt;To retrieve updates from the remote Git repository, use this command:&lt;/p&gt;
-
-&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git push origin master 
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;Now you’re all set to review your new blog sites.&lt;/p&gt;
-
-&lt;p&gt;This revised version maintains a cohesive flow while providing instructions for creating Jekyll sites, creating posts, and managing Git repositories.&lt;/p&gt;</content><author><name>Bimal chhetry</name></author><category term="site" /><category term="tutorial" /><category term="guide" /><category term="blog" /><summary type="html">Documentation for Creating New Sites on Jekyll</summary></entry></feed>
+&lt;/ul&gt;</content><author><name>Bimal chhetry</name></author><category term="google" /><category term="tutorial" /><category term="search" /><category term="technique" /><summary type="html">Google Dork Cheat Sheet A “Google dork” is a search string used to find specific information on the internet using Google’s search engine. It involves using advanced search operators to refine results and can be used for various purposes, including security testing. However, it’s important to use these techniques responsibly and legally.</summary></entry></feed>
