@@ -15,41 +15,33 @@
   {% feed_meta %}
 
   <!-- Favicon -->
-<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
-<link rel="apple-touch-icon" sizes="180x180" href="{{ '/assets/images/favicon/apple-touch-icon.png' | relative_url }}">
-<link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/images/favicon/favicon-32x32.png' | relative_url }}">
-<link rel="icon" type="image/png" sizes="16x16" href="{{ '/assets/images/favicon/favicon-16x16.png' | relative_url }}">
-<link rel="manifest" href="{{ '/assets/images/favicon/site.webmanifest' | relative_url }}">
-<link rel="mask-icon" href="{{ '/assets/images/favicon/safari-pinned-tab.svg' | relative_url }}" color="#5bbad5">
-<link rel="shortcut icon" href="{{ '/assets/images/favicon/favicon.ico' | relative_url }}">
-<meta name="msapplication-config" content="{{ '/assets/images/favicon/browserconfig.xml' | relative_url }}">
-<script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ '/assets/images/favicon/apple-touch-icon.png' | relative_url }}">
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/images/favicon/favicon-32x32.png' | relative_url }}">
+  <link rel="icon" type="image/png" sizes="16x16" href="{{ '/assets/images/favicon/favicon-16x16.png' | relative_url }}">
+  <link rel="manifest" href="{{ '/assets/images/favicon/site.webmanifest' | relative_url }}">
+  <link rel="mask-icon" href="{{ '/assets/images/favicon/safari-pinned-tab.svg' | relative_url }}" color="#5bbad5">
+  <link rel="shortcut icon" href="{{ '/assets/images/favicon/favicon.ico' | relative_url }}">
+  <meta name="msapplication-config" content="{{ '/assets/images/favicon/browserconfig.xml' | relative_url }}">
 
+  <!-- Main CSS -->
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
 
-
-  <!-- Favicon -->
-
-  <!-- Preload combined Google Fonts request -->
+  <!-- Google Fonts -->
   <link rel="preload" href="https://fonts.googleapis.com/css2?family=Roboto+Mono&family=Inter:wght@400;700&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
   <noscript>
-      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto+Mono&family=Inter:wght@400;700&display=swap">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto+Mono&family=Inter:wght@400;700&display=swap">
   </noscript>
-  
-  <!-- Inline Critical CSS with Fallback Fonts -->
+
+  <!-- Inline Critical CSS -->
   <style>
-      body {
-         font-family: 'Inter', Arial, sans-serif;
-      }
-      code {
-         font-family: 'Roboto Mono', monospace;
-      }
-      /* Additional critical styles can go here */
+    body { font-family: 'Inter', Arial, sans-serif; }
+    code { font-family: 'Roboto Mono', monospace; }
   </style>
-  
-  <!-- Link to main stylesheet -->
-  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
-  
-  <!-- Toggle theme JS (if applicable) -->
+
+  <!-- JS -->
+  <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+
+  <!-- Toggle theme JS -->
   {% if site.theme_config.appearance_toggle %}
     {% include toggle_theme_js.html %}
   {% endif %}
