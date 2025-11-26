@@ -1,5 +1,7 @@
 title: "bimql.69"
 author: "Bimal chhetry"
+url: "https://bimql.link"  # root domain
+baseurl: "" 
 url: "https://bimql.link"  # Update the root address of the site
 description: 
   69 mistakes, but who cares? I call it a life well-lived.
@@ -61,4 +63,3 @@ assets:
 
 include:
   - _redirects
-
