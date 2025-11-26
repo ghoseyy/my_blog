@@ -1,2 +1,3 @@
 /if-you-think-social-media-kills-your-time-look-at-this /socialmedia 301
-/apply/* https://apply-resume.vercel.app/:splat    200
+/apply https://apply-resume.vercel.app 200
+/apply/* https://apply-resume.vercel.app/:splat 200
