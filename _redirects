@@ -1,2 +1,1 @@
-/apply/_next/*  https://apply-resume.vercel.app/apply/_next/:splat  200
-/apply/*        https://apply-resume.vercel.app/apply/:splat  200
+/apply/*   https://apply-resume.vercel.app/:splat  200
