@@ -59,4 +59,6 @@ assets:
     - _assets/css
     - _assets/js
 
-include: ["<iframe>"]
+include:
+  - _redirects
+
