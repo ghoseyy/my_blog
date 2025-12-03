@@ -1,1 +1,2 @@
 /apply/*   https://apply-resume.vercel.app/:splat  200
+/app-ads.txt   /app-ads.txt   200
